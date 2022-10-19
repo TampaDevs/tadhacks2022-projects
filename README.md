@@ -4,6 +4,8 @@
 
 TADHacks 2022 event! 
 
+Global Summary [here](https://blog.tadhack.com/2022/10/17/tadhack-global-2022-summary/)
+
 Event link page [here](https://www.meetup.com/tampadevs/events/284553267/)
 
 Photo Album [here](https://photos.app.goo.gl/Mo2GKnBSFqYpCAfu7)
